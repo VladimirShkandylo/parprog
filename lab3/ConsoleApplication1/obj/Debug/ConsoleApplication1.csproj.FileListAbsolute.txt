@@ -1,0 +1,48 @@
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.dll
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPIUtils.dll
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.xml
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\222\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.dll
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPIUtils.dll
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.xml
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\MPI.dll
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\MPIUtils.dll
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\bin\Debug\MPI.xml
+C:\Users\IVC_HALITOVDP\Desktop\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\MPI.dll
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\MPIUtils.dll
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\bin\Debug\MPI.xml
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab3_start\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\MPI.dll
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\MPIUtils.dll
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\bin\Debug\MPI.xml
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vish\source\repos\Lab3_vs2015-main\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
